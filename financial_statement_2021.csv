@@ -1,35 +1,35 @@
 contextref,unitref,amount,tag_en
-d_Corrente,eur,136179,production costs and services
-d_Corrente,eur,3000,"value produced from variations in production surplus from current processing, semi-finished and finished goods"
-i_Corrente,eur,145786,total current assets
-i_Corrente,eur,3000,total remaining items / total income
-i_Corrente,eur,50000,"total net equity,  other indicated strict reserves, total other reserves."
-d_Corrente,eur,-94264,difference in value between production costs
-d_Corrente,eur,118315,total value produced
-i_Corrente,eur,225168,total liabilities
-i_Corrente,eur,-94264,net equity and profit or loss of the fiscal year
-d_Corrente,eur,3000,"value of production, variation of residual product, work in progress, finished work"
-i_Corrente,eur,33,total credits owed to suppliers and others
-i_Corrente,eur,87895,credits that become payable within the next fiscal year
-i_Corrente,eur,139241,debts that become payable within the next fiscal year
-d_Corrente,eur,212579,total production costs
-d_Corrente,eur,260,value produced from other revenues and profits from other sources
-i_Corrente,eur,129982,net equity surplus from share premiums
-i_Corrente,eur,209,net equity and capital
-d_Corrente,eur,75461,costs of primary and secondary raw materials and consumable goods
-d_Corrente,eur,4000,value produced from other revenues and profits from contributions to the fiscal year
-d_Corrente,eur,-94264,profit or loss of the fiscal year
-i_Corrente,eur,225168,total assets
-i_Corrente,eur,139241,total debts
-i_Corrente,eur,1765,discounted assets
-d_Corrente,eur,111055,value produced from sales and services
-i_Corrente,eur,2765,total material immobilizations
-i_Corrente,eur,77584,total fixed assets
-d_Corrente,eur,4260,total value produced from other revenues and profits
-d_Corrente,eur,-94264,earnings before taxes
-i_Corrente,eur,87895,total credits
-d_Corrente,eur,939,diversified management costs
 i_Corrente,eur,74819,total intangible assets
-i_Corrente,eur,213,company registered capital
+d_Corrente,eur,260,value produced from other revenues and profits from other sources
 i_Corrente,eur,85927,total net equity
+d_Corrente,eur,75461,costs of primary and secondary raw materials and consumable goods
+i_Corrente,eur,209,net equity and capital
+i_Corrente,eur,139241,total debts
+i_Corrente,eur,87895,total credits
+d_Corrente,eur,-94264,earnings before taxes
+i_Corrente,eur,139241,debts that become payable within the next fiscal year
+d_Corrente,eur,3000,"value of production, variation of residual product, work in progress, finished work"
+d_Corrente,eur,939,diversified management costs
+d_Corrente,eur,3000,"value produced from variations in production surplus from current processing, semi-finished and finished goods"
+i_Corrente,eur,-94264,net equity and profit or loss of the fiscal year
+i_Corrente,eur,2765,total material immobilizations
+i_Corrente,eur,1765,discounted assets
+i_Corrente,eur,225168,total assets
+i_Corrente,eur,145786,total current assets
+d_Corrente,eur,111055,value produced from sales and services
 i_Corrente,eur,54891,total liquid assets
+i_Corrente,eur,213,company registered capital
+d_Corrente,eur,212579,total production costs
+d_Corrente,eur,136179,production costs and services
+d_Corrente,eur,4260,total value produced from other revenues and profits
+i_Corrente,eur,77584,total fixed assets
+d_Corrente,eur,-94264,profit or loss of the fiscal year
+i_Corrente,eur,3000,total remaining items / total income
+d_Corrente,eur,118315,total value produced
+d_Corrente,eur,-94264,difference in value between production costs
+i_Corrente,eur,87895,credits that become payable within the next fiscal year
+i_Corrente,eur,33,total credits owed to suppliers and others
+d_Corrente,eur,4000,value produced from other revenues and profits from contributions to the fiscal year
+i_Corrente,eur,225168,total liabilities
+i_Corrente,eur,50000,"total net equity,  other indicated strict reserves, total other reserves."
+i_Corrente,eur,129982,net equity surplus from share premiums
